@@ -4,9 +4,13 @@ This repository contains free resources to learn System Design concepts and prep
 
 1. Security: Protect Your Systems
 A secure system is non-negotiable. Learn:
+
  ✔ Authentication & Authorization (OAuth 2.0, JWT)
+ 
  ✔ Encryption & Cryptography (AES, RSA)
+ 
  ✔ OWASP Top 10 (Common security risks & how to prevent them)
+ 
  ✔ Threat Detection (SEIM, IDS, IPS)
 
 2. Performance: Make It Lightning Fast 
