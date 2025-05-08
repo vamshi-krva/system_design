@@ -79,6 +79,48 @@ Timing, reliability, and eventual execution are tested here.
    → Scale delivery across millions of users.
 
 
+
+Namaste JavaScript by Akshay Saini 🚀:
+ - https://lnkd.in/gYVUUp25
+
+LLD by Shrayansh Jain:
+ - https://lnkd.in/gFxtSxJU
+
+HLD by Shrayansh Jain:
+ - https://lnkd.in/gtgR2FEQ
+
+System Design by Gaurav Sen:
+ - https://lnkd.in/gF8Q4mef
+
+Designing Microservices by Arpit Bhayani:
+ - https://lnkd.in/gebTXbDC
+
+Frontend Machine Coding by Piyush Agarwal:
+ - https://lnkd.in/gexXg8eG
+
+Frontend System Design by Piyush Agarwal:
+ - https://lnkd.in/g3C6C3eM
+
+SQL by Ankit Bansal:
+ - https://lnkd.in/gEK8KKC5
+
+Java by Shrayansh Jain:
+ - https://lnkd.in/g2qhipNK
+
+Spring Boot by Shrayansh Jain:
+ - https://lnkd.in/gaDXrjTc
+
+A2Z DSA sheet by Raj Vikramaditya:
+ - https://lnkd.in/dQMGy9zF
+
+𝗞𝗲𝗲𝗽𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝗶𝗻 𝗺𝗶𝗻𝗱, 𝗜’𝘃𝗲 𝗽𝗿𝗲𝗽𝗮𝗿𝗲𝗱 𝗶𝗻 𝗗𝗲𝗽𝘁𝗵 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 𝗚𝘂𝗶𝗱𝗲.
+
+𝗚𝗲𝘁 𝘁𝗵𝗲 𝗚𝘂𝗶𝗱𝗲 𝗵𝗲𝗿𝗲: 
+ - https://lnkd.in/dte69Z5N
+
+
+
+
 1. Security: Protect Your Systems
 A secure system is non-negotiable. Learn:
 
